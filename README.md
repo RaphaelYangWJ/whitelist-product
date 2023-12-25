@@ -13,3 +13,7 @@ This repository contains a Machine Learning (ML) project focused on monitoring c
 ## Usage
 
 The model is encapsulated as software, providing an easy-to-use interface for the sales and product departments.
+
+## Codes & Outcomes
+
+Please refer to the folder of Codes and Outcomes respectively to check the source codes of this tool as well as the visualized outcomes of metrics setup.
